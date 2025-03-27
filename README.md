@@ -93,8 +93,20 @@ cd ../admin
 
 npm run dev
 
+
+
 # Start backend
 
 cd ../backend
 
 npm start
+
+### Screenshots
+![Screenshot 2025-03-27 193127](https://github.com/user-attachments/assets/e6ebf119-d839-4201-8650-82671b478fb6)
+![Screenshot 2025-03-27 193050](https://github.com/user-attachments/assets/94642344-0775-4031-9047-ae1adb1ff2e6)
+![Screenshot 2025-03-27 193427](https://github.com/user-attachments/assets/2d837989-2b9d-4363-a4a3-2b9fdc2f55d3)
+![Screenshot 2025-03-27 193359](https://github.com/user-attachments/assets/3682c268-aed5-42de-a33f-95dac11f0235)
+![Screenshot 2025-03-27 193337](https://github.com/user-attachments/assets/a6449ead-9c3e-4f8e-8d76-21294919c9cc)
+![Screenshot 2025-03-27 193304](https://github.com/user-attachments/assets/e286af77-2309-4df9-a8db-0888b7b08f24)
+![Screenshot 2025-03-27 193243](https://github.com/user-attachments/assets/7da78f04-52c2-4a9d-b0ae-2e42811d9d4b)
+![Screenshot 2025-03-27 193214](https://github.com/user-attachments/assets/2f94f4f9-dc6f-4521-b23b-889d1178a88c)
